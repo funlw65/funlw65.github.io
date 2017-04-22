@@ -35,10 +35,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
+        <strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </strong>
       </li>
     {% endfor %}
   </ul>
