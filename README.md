@@ -34,7 +34,7 @@ Syntax highlighted code block
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site. %}
+    {% for post in site %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
