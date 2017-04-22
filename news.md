@@ -2,7 +2,7 @@
 
 <hr />
 
-#  :sparkles: News  :sparkles:
+#  :sparkles: News  
 Here you can read all the news of this site
 
   <ul class="post-list">

@@ -1,7 +1,7 @@
 -= [About](about.md) -=- [Blog](news.md) =-
 <hr />
 
-## :boom: Welcome to my GitHub pages :boom:
+## :boom: Welcome to my GitHub pages 
 
 Well, first of all, many thanks to the [GitHub](https://pages.github.com/) for providing one static web site for every github account - considering that the web hosting become expensive and ephemeral, this is great! And also, thank you for your visit!
 
