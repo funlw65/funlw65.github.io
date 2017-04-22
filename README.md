@@ -32,7 +32,7 @@ Syntax highlighted code block
 
 ## Posts
 <div class="home">
-
+ 
   <ul class="post-list">
     {% for post in site %}
       <li>
