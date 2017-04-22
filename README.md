@@ -8,22 +8,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```c
+typedef enum { MANUAL = 0, EOS} lens_t;
+typedef enum { EOSMANUAL = 0, EOS50MM12, EOS50MM14, EOS50MM18, EOS85MM12, EOS85MM18} eos_t;
+typedef enum { M = 0, AV, TV} cameramode_t;
 
-# Header 1
-## Header 2
-### Header 3
+/* -- Global variables ---------------------------------------------- */ 
+uint8_t  EV; /* using only the integer values of it                   */
+float    LUX;/* this comes form the TSL2591 library                   */
+uint16_t ISO;/* current ISO - index to the ISO_values[] array         */
+uint8_t  Av; /* current aperture - index to the Av_values[] array     */
+uint8_t  Tv; /* current shutter speed - index to the ST_speed[] array */
+lens_t   LensType; /* current lens type                               */
+eos_t    EOSModel; /* current EOS lens model                          */
+cameramode_t Mode; /* current camera mode set by user                 */
+/* ------------------------------------------------------------------ */
 
-- Bulleted
-- List
+/** film sensitivity in ISO values - 160 will be treated as 100 ISO */
+const uint16_t ISO_values[8]={25,50,100,200,400,800,1600,3200};
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
