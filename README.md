@@ -36,10 +36,10 @@ Syntax highlighted code block
   <ul class="post-list">
     {% for post in site %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ date | date: "%b %-d, %Y" }}</span>
 
         <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
       </li>
     {% endfor %}
