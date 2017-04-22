@@ -2,7 +2,7 @@
 
 <hr />
 
-# About
+#  :sparkles: About  :sparkles:
 Well, just an About page...
 
 ```markdown
