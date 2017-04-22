@@ -13,30 +13,30 @@ There is an old project regarding a CMS site in PHP language, a fork of sNews Re
 
 And recently I started working to a DIY SLR film camera, which can use also EOS compatible lenses - just the firmware for now, WIP.
 
-### My C libraries
+### :pushpin: My C libraries
 <hr />
 
 Some made by me, some ported in C language from Arduino project.
 
-#### C libraries for AVR
+#### :paperclip: C libraries for AVR
 
 * [atmega-clib](http://funlw65.github.io/atmega-clib) - it comes as a collection of Eclipse projects
 
-#### C libraries for PIC
+#### :paperclip: C libraries for PIC
 
 * [c18-clib](http://funlw65.github.io/c18-clib/) - set of libaries for MPLAB X and XC8 compiler
 * [sdcc_clib](http://funlw65.github.io/sdcc_clib/) - set of libraries for SDCC compiler and Geany IDE
 
-#### C libraries for STM32
+#### :paperclip: C libraries for STM32
 
 * [my_nucleo_l152re](https://funlw65.github.io/my_nucleo_l152re/) - comes as a collection of Eclipse projects
 
-### My DIY film camera projects
+### :pushpin: My DIY film camera projects
 <hr />
 
 My main targets are SLR and TLR cameras. A rangefinder camera is beyond my capabilities.
 
-#### My SLR project
+#### :paperclip: My SLR project
 
 * [my_film_slr](https://funlw65.github.io/my_film_slr/) - the firmware for a film camera with manual film advance, able to using EOS lenses, and with automated exposure - very WIP status.
 
