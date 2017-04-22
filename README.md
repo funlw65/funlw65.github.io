@@ -1,3 +1,6 @@
+[About](about.md) [Blog](news.md)
+<hr />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/funlw65/funlw65.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -30,12 +33,6 @@ const uint16_t ISO_values[8]={25,50,100,200,400,800,1600,3200};
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### About
-[See what is about](about.md)
-
-### News
-[See the News page](news.md) 
- 
 ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/funlw65/funlw65.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
