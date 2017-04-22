@@ -1,5 +1,6 @@
 [-=Back to Home=-](https://funlw65.github.io/)
-***
+
+<hr />
 
 # About
 Well, just an About page...

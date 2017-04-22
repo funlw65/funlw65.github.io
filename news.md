@@ -1,5 +1,6 @@
 [-=Back to Home=-](https://funlw65.github.io/)
-***
+
+<hr />
 
 # News
 Here you can read all the news of this site
