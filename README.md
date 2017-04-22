@@ -20,7 +20,7 @@ Some made by me, some ported in C language from Arduino project.
 
 #### C libraries for AVR
 
-* [atmega-clib](http://funlw65.github.io/atmega-clib) - it comes as Eclipse projects
+* [atmega-clib](http://funlw65.github.io/atmega-clib) - it comes as a collection of Eclipse projects
 
 #### C libraries for PIC
 
@@ -29,7 +29,7 @@ Some made by me, some ported in C language from Arduino project.
 
 #### C libraries for STM32
 
-* [my_nucleo_l152re](https://funlw65.github.io/my_nucleo_l152re/) - comes as Eclipse projects
+* [my_nucleo_l152re](https://funlw65.github.io/my_nucleo_l152re/) - comes as a collection of Eclipse projects
 
 ### My DIY film camera projects
 <hr />
