@@ -1,4 +1,4 @@
-[About](about.md) [Blog](news.md)
+=- [About](about.md) -=- [Blog](news.md) -=
 <hr />
 
 ## Welcome to GitHub Pages
