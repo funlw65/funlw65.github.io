@@ -1,4 +1,4 @@
-[<Back to Home>](https://funlw65.github.io/)
+[-=Back to Home=-](https://funlw65.github.io/)
 
 # About
 Well, just an About page...
@@ -6,5 +6,5 @@ Well, just an About page...
 ```markdown
 Done.
 ```
-[<Back to Home>](https://funlw65.github.io/)  
+[-=Back to Home=-](https://funlw65.github.io/)  
 
