@@ -17,6 +17,8 @@ twitter_username:
 github_username:  funlw65
 gems:
   - jemoji
+  - jekyll-feed
+  
 
 # Build settings
 markdown: kramdown
