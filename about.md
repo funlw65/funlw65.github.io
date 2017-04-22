@@ -4,6 +4,5 @@ Well, just an About page...
 ```markdown
 Done.
 ```
-
-[Back to Home](README.md)
+[Back to Home](https://funlw65.github.io/)
 
