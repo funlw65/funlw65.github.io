@@ -3,7 +3,8 @@
 <hr />
 
 #  :sparkles: About  :sparkles:
-Well, just an About page...
+
+As on GitHub description, renewable energy adept, automation lover, passionate photographer, passionate pigeon breeder, incurable lover of self-sustainable farming, GOD and nature adorer. 
 
 ```markdown
  Page done.
