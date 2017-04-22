@@ -1,7 +1,7 @@
 -= [About](about.md) -=- [Blog](news.md) =-
 <hr />
 
-## Welcome to GitHub Pages
+## :boom: Welcome to my GitHub pages :boom:
 
 You can use the [editor on GitHub](https://github.com/funlw65/funlw65.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
