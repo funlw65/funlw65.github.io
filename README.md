@@ -13,7 +13,7 @@ There is an old project regarding a CMS site in PHP language, a fork of sNews Re
 
 And recently I started working to a DIY SLR film camera, which can use also EOS compatible lenses - just the firmware for now, WIP.
 
-### :pushpin: My C libraries
+### :open_file_folder: My C libraries
 <hr />
 
 Some made by me, some ported in C language from Arduino project.
@@ -31,7 +31,7 @@ Some made by me, some ported in C language from Arduino project.
 
 * [my_nucleo_l152re](https://funlw65.github.io/my_nucleo_l152re/) - comes as a collection of Eclipse projects
 
-### :pushpin: My DIY film camera projects
+### :open_file_folder: My DIY film camera projects
 <hr />
 
 My main targets are SLR and TLR cameras. A rangefinder camera is beyond my capabilities.
