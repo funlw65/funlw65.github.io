@@ -1,6 +1,5 @@
 ---
 title: Just About to say something...
-layout: post
 ---
 
 # About
