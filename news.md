@@ -1,4 +1,4 @@
-[-=Back to Home=-](https://funlw65.github.io/)
+-= [Back to Home](https://funlw65.github.io/) =-
 
 <hr />
 
@@ -19,4 +19,4 @@ Here you can read all the news of this site
 ```markdown
 Done.
 ```
-[-=Back to Home=-](https://funlw65.github.io/)
+-= [Back to Home](https://funlw65.github.io/) =-
