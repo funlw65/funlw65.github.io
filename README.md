@@ -43,3 +43,4 @@ My main targets are SLR and TLR cameras. A rangefinder camera is beyond my capab
 ```
  Page done.
 ```
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
