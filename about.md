@@ -6,6 +6,6 @@
 Well, just an About page...
 
 ```markdown
-Done.
+ Page done.
 ```
 -= [Back to Home](https://funlw65.github.io/) =-

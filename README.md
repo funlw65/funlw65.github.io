@@ -14,5 +14,5 @@ There is an old project regarding a CMS site in PHP language, a fork of sNews Re
 And recently I started working to a DIY SLR film camera, which can use also EOS compatible lenses - just the firmware for now, WIP.
 
 ```
-The end of page
+ Page done.
 ```

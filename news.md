@@ -17,6 +17,6 @@ Here you can read all the news of this site
 
 
 ```markdown
-Done.
+ Page done.
 ```
 -= [Back to Home](https://funlw65.github.io/) =-
