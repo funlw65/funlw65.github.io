@@ -1,4 +1,4 @@
--= [About](about.md) -=- [Blog](news.md) =-
+-=  :grey_question: [About](about.md) -=-  :page_with_curl: [Blog](news.md) =-
 <hr />
 
 ## :boom: Welcome to my GitHub pages 
