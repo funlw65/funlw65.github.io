@@ -1,4 +1,4 @@
--=  :grey_question: [About](about.md) -=-  :book: [Blog](news.md) =-
+-=  :id: [About](about.md) -=-  :book: [Blog](news.md) =-
 <hr />
 
 ## :boom: Welcome to my GitHub pages 
