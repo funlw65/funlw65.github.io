@@ -17,7 +17,7 @@ And recently I started working to a DIY SLR film camera, which can use also EOS 
 <hr />
 
 >
-> The projects presented bellow have their own web page so, that top-left green button refers to their own repository
+> The projects presented bellow have their own web page so, that top-left green button refers to their own repository (that is, when you are on their page... )
 >
 
 ### :open_file_folder: My C libraries
