@@ -1,4 +1,4 @@
--=  :id: [About](about.md) -=-  :book: [Blog](news.md) =-
+-=  :bulb: [About](about.md) -=-  :book: [Blog](news.md) =-
 <hr />
 
 ## :boom: Welcome to my GitHub pages 
@@ -52,4 +52,4 @@ My main targets are SLR and TLR cameras. A rangefinder camera is beyond my capab
 ```
  Page done.
 ```
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>  :bell: </p>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>  :gem: </p>
