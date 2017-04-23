@@ -5,7 +5,7 @@
 
 Well, first of all, many thanks to the [GitHub](https://pages.github.com/) for providing one static web site for every github account - considering that the web hosting become expensive and ephemeral, this is great! And also, thank you for your visit!
 
-![development boards](https://photos.google.com/photo/AF1QipOmTLprUaF_miQL9uMhekDDIxUmKynS5PS40FrO)
+![development boards](https://lh3.googleusercontent.com/oRJhmU4xeCv52sprD0yClxUTLKVL-X-XfNmrKujq-JKhwCIb3Z8AvngW8RR2pE3grhj8q16HCyg5L_sZ6rRhZ7CvfE-72XWGpxhqiUl08DAZOQCR0-QcN2GOAG0zYxK7QPF-B-qAKS7sdtIjF8eKs5XcNNPJ1AO4mzV4_8ygP0P8ZIIic4DK0EduNPqBxsaU-dhbQrZGe-xus4KpvT1KBn3X0Cf8HGLVkZCdyMZiTMS2m4Zu6dEkuP7hF1zzRUFRjhcvGLEqJh7lVI8h_S19D_UvtJDbgcmMI3sX4AHCj4g0ClaJnwhatR3EpMWB6sI-iWLo9BLPDL5jOgXG8ZBzdAdbRnLBn76Hym1UGvxmFLv2TiehBbIXUAFrOmESKvzmcvRpA2SbfRNq7kvoyVsHBYlo5etlixpZwszK4jH_Opc7eUsGO_7hw7BB7A4A_y37XCl2IpWuaxxBuEDMtNt5Sk5AXNwlXXyW4c5nuO3w-_QG6IP34ZekLL-j8Nbrj2rSzMlkW_oPpMldqzOu2uD3EO04iD_BhxKF5aOHq95aua7nocpMHmzrveZEaZlyLndNOM4roscuZ6NkIMp76QY-yKIPiBV4DIwb-Eym81C41YVflxh4SXAU=w1436-h958-no)
 
 What you will find here? Mainly, libraries I'm using in microcontroller programming. Here are few of them for AVR, PIC and STM32, for different C compilers. 
 
