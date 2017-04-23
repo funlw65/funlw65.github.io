@@ -5,6 +5,8 @@
 
 Well, first of all, many thanks to the [GitHub](https://pages.github.com/) for providing one static web site for every github account - considering that the web hosting become expensive and ephemeral, this is great! And also, thank you for your visit!
 
+![development boards](https://photos.google.com/photo/AF1QipOmTLprUaF_miQL9uMhekDDIxUmKynS5PS40FrO)
+
 What you will find here? Mainly, libraries I'm using in microcontroller programming. Here are few of them for AVR, PIC and STM32, for different C compilers. 
 
 Then, some hardware - nothing special, just microcontroller development boards. 
