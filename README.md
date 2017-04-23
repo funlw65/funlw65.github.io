@@ -1,4 +1,4 @@
--=  :bulb: [About](about.md) -=-  :book: [Blog](news.md) =-
+-=  :bulb: [About](about.md) -=-  :newspaper: [Blog](news.md) =-
 <hr />
 
 ## :boom: Welcome to my GitHub pages 
