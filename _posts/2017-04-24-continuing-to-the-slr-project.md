@@ -5,9 +5,10 @@
 
 Added the aperture and shutter speed tables for ISO 1600 and 3200 but I can't go further until I solve the following:
 
-* learning how to work with the i2c libraries for my [Nucleo](https://funlw65.github.io/my_nucleo_l152re/) board;
+* learning how to work with the i2c libraries for my Nucleo board;
 * porting the TSL2591 library to C language (in the same nucleo project).
 
+You can go to the SLR project from the main page...
 
 ```markdown
  Page done.
