@@ -49,6 +49,17 @@ My main targets are SLR and TLR cameras. A rangefinder camera is beyond my capab
 
 * [my_film_slr](https://funlw65.github.io/my_film_slr/) - the firmware for a film camera with manual film advance, able to using EOS lenses, and with automated exposure - very WIP status.
 
+### :open_file_folder: My 3D objects for printing
+<hr />
+
+For now, accessories and camera parts.
+
+#### :paperclip: Lens adapters
+
+* [m42_to_eos_adapter](https://funlw65.github.io/m42_to_eos_adapter/) - M42 to EOS lens adapter (absolute dimensions - that means, high precision needed at printing)
+
+
+
 ```
  Page done.
 ```
