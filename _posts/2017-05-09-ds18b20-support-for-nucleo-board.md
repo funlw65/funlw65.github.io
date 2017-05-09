@@ -1,7 +1,7 @@
 -= [Back to News](https://funlw65.github.io/news.html) -=- [Back to Home](https://funlw65.github.io/) =-
 <hr />
 
-# :: DS18B20 temperature sensor support for Nucleo board
+# :computer: DS18B20 temperature sensor support for Nucleo board
 
 So, I added the onewire and ds18b20 libraries. No extensive support (no search function), and with 12bit only resolution for now, but with a strong protection against errors. I included two projects as examples. One for a bus with one temperature sensor, and another with two sensors, to cover all the cases.
 
