@@ -58,6 +58,18 @@ For now, accessories and camera parts.
 
 * [m42_to_eos_adapter](https://funlw65.github.io/m42_to_eos_adapter/) - M42 to EOS lens adapter (absolute dimensions - that means, high precision needed at printing)
 
+### :open_file_folder: My designed PCB boards
+<hr />
+
+I am using the free Eagle and the open-source KiCAD and gEDA PCB in designing my boards.
+
+#### :paperclip: Il Pinguino Rosso
+
+* [il pinguino rosso board](https://funlw65.github.io/il_pinguino_rosso/) - An alternative to the Sanguino board, featuring the PIC18F64K22 microcontroller
+
+#### :paperclip: FreeJALduino
+
+* [freejalduino board](http://funlw65.github.io/freejalduino/) - A PIC alternative to Arduino board, featuring a PIC18F2550 microcontroller
 
 
 ```
